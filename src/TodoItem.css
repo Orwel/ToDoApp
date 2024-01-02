@@ -1,0 +1,6 @@
+.estilos-lista{
+ background-color: blanchedalmond;
+ margin:20px;
+ display: flex;
+ flex-wrap: wrap;
+}
